@@ -129,5 +129,7 @@ int main(int argc, const char * argv[]) {
     
 //    printf("链表长度:%d\n", size);
     
+    int s = 11;
+    
     return 0;
 }
